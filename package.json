@@ -1,0 +1,28 @@
+{
+  "name": "decode",
+  "version": "1.0.0",
+  "description": "Decoder App",
+  "main": "start.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node decoder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcusACWilliams/decode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcusACWilliams/decode/issues"
+  },
+  "homepage": "https://github.com/MarcusACWilliams/decode#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "esm": "^3.2.25",
+    "jest": "^24.9.0"
+  }
+}
